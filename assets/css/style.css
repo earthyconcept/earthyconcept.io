@@ -701,7 +701,7 @@ section {
   text-align: center;
   padding: 40px 20px;
   transition: all ease-in-out 0.3s;
-  background: #C4A484;
+  background: #ffffff;
 }
 
 .services .icon-box .icon {
@@ -715,7 +715,7 @@ section {
   justify-content: center;
   margin-bottom: 20px;
   transition: ease-in-out 0.3s;
-  color: #C4A484;
+  color: #ffffff;
 }
 
 .services .icon-box .icon i {
@@ -745,12 +745,12 @@ section {
 }
 
 .services .icon-box:hover h4 a {
-  color: #C4A484;
+  color: #ffffff;
 }
 
 .services .icon-box:hover .icon {
   color: #fff;
-  background: #C4A484;
+  background: #ffffff;
 }
 
 /*--------------------------------------------------------------
