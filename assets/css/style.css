@@ -42,7 +42,7 @@ h6 {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: #8B4513;
+  background: #C4A484;
   width: 40px;
   height: 40px;
   border-radius: 50px;
@@ -56,7 +56,7 @@ h6 {
 }
 
 .back-to-top:hover {
-  background: #8B4513;
+  background: #C4A484;
   color: #fff;
 }
 
@@ -85,11 +85,11 @@ h6 {
 }
 
 #header .header-container {
-  background: #8B4513;
+  background: #C4A484;
 }
 
 #header.header-scrolled {
-  background: #8B4513;
+  background: #C4A484;
   box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
   top: 0;
 }
@@ -97,7 +97,7 @@ h6 {
 #header .logo {
   overflow: hidden;
   padding: 16px 30px 12px 30px;
-  background: #8B4513;
+  background: #C4A484;
 }
 
 #header .logo h1 {
@@ -124,12 +124,12 @@ h6 {
   #header {
     box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
     top: 0;
-    background: #8B4513;
+    background: #C4A484;
   }
 
   #header.header-scrolled,
   #header .header-container {
-    background: #8B4513;
+    background: #C4A484;
   }
 
   #header .logo {
@@ -195,7 +195,7 @@ h6 {
 
 .navbar .getstarted,
 .navbar .getstarted:focus {
-  background: #8B4513;
+  background: #C4A484;
   padding: 10px 25px;
   margin-left: 30px;
   margin-right: 15px;
@@ -206,7 +206,7 @@ h6 {
 .navbar .getstarted:hover,
 .navbar .getstarted:focus:hover {
   color: #fff;
-  background: #8B4513;
+  background: #C4A484;
 }
 
 .navbar .dropdown ul {
@@ -219,7 +219,7 @@ h6 {
   z-index: 99;
   opacity: 0;
   visibility: hidden;
-  background: #8B4513;
+  background: #C4A484;
   box-shadow: 0px 0px 30px rgba(127, 137, 161, 0.25);
   transition: 0.3s;
 }
@@ -321,7 +321,7 @@ h6 {
   bottom: 15px;
   left: 15px;
   padding: 10px 0;
-  background-color: #8B4513;
+  background-color: #C4A484;
   overflow-y: auto;
   transition: 0.3s;
 }
@@ -352,7 +352,7 @@ h6 {
   z-index: 99;
   opacity: 1;
   visibility: visible;
-  background: #8B4513;
+  background: #C4A484;
   box-shadow: 0px 0px 30px rgba(127, 137, 161, 0.25);
 }
 
@@ -437,7 +437,7 @@ h6 {
 }
 
 #hero .btn-get-started:hover {
-  background: #8B4513;
+  background: #C4A484;
   border: 2px solid #C4A484;
 }
 
@@ -471,7 +471,7 @@ section {
 }
 
 .section-bg {
-  background-color: #8B4513;
+  background-color: #C4A484;
 }
 
 .section-title {
@@ -493,7 +493,7 @@ section {
   display: block;
   width: 50px;
   height: 3px;
-  background: #8B4513;
+  background: #C4A484;
   bottom: 0;
   left: 0;
 }
@@ -506,7 +506,7 @@ section {
 # Clients
 --------------------------------------------------------------*/
 .clients {
-  background: #8B4513;
+  background: #C4A484;
   text-align: center;
   padding: 5px 0;
 }
@@ -567,7 +567,7 @@ section {
 # Counts
 --------------------------------------------------------------*/
 .counts {
-  background: #8B4513;
+  background: #C4A484;
   padding: 40px 0 20px 0;
   color: #fff;
 }
@@ -591,7 +591,7 @@ section {
 --------------------------------------------------------------*/
 .why-us .content {
   padding: 30px;
-  background: #8B4513;
+  background: #C4A484;
   border-radius: 4px;
   color: #fff;
 }
@@ -621,13 +621,13 @@ section {
 
 .why-us .content .more-btn:hover {
   color: #C4A484;
-  background: #8B4513;
+  background: #C4A484;
 }
 
 .why-us .icon-boxes .icon-box {
   text-align: center;
   border-radius: 10px;
-  background: #8B4513;
+  background: #C4A484;
   box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
   padding: 40px 30px;
   width: 100%;
@@ -690,7 +690,7 @@ section {
 }
 
 .cta .cta-btn:hover {
-  background: #8B4513;
+  background: #C4A484;
   border: 2px solid #C4A484;
 }
 
@@ -701,7 +701,7 @@ section {
   text-align: center;
   padding: 40px 20px;
   transition: all ease-in-out 0.3s;
-  background: #8B4513;
+  background: #C4A484;
 }
 
 .services .icon-box .icon {
