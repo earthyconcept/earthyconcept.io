@@ -750,7 +750,7 @@ section {
 
 .services .icon-box:hover .icon {
   color: #fff;
-  background: #8B4513;
+  background: #C4A484;
 }
 
 /*--------------------------------------------------------------
@@ -785,7 +785,7 @@ section {
 .portfolio #portfolio-flters li:hover,
 .portfolio #portfolio-flters li.filter-active {
   color: #fff;
-  background: #8B4513;
+  background: #C4A484;
 }
 
 .portfolio #portfolio-flters li:last-child {
@@ -896,13 +896,13 @@ section {
 .portfolio-details .portfolio-details-slider .swiper-pagination .swiper-pagination-bullet {
   width: 12px;
   height: 12px;
-  background-color: #8B4513;
+  background-color: #C4A484;
   opacity: 1;
   border: 1px solid #C4A484;
 }
 
 .portfolio-details .portfolio-details-slider .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #8B4513;
+  background-color: #C4A484;
 }
 
 .portfolio-details .portfolio-info {
@@ -957,7 +957,7 @@ section {
   text-align: center;
   min-height: 350px;
   box-shadow: 0px 2px 12px rgba(0, 0, 0, 0.08);
-  background: #8B4513;
+  background: #C4A484;
 }
 
 .testimonials .testimonial-item .testimonial-img {
@@ -1012,13 +1012,13 @@ section {
 .testimonials .swiper-pagination .swiper-pagination-bullet {
   width: 12px;
   height: 12px;
-  background-color: #8B4513;
+  background-color: #C4A484;
   opacity: 1;
   border: 1px solid #009970;
 }
 
 .testimonials .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #8B4513;
+  background-color: #C4A484;
 }
 
 /*--------------------------------------------------------------
@@ -1072,7 +1072,7 @@ section {
   display: block;
   width: 50px;
   height: 1px;
-  background: #8B4513;
+  background: #C4A484;
   bottom: 0;
   left: 50%;
   transform: translateX(-50%);
@@ -1098,7 +1098,7 @@ section {
   border-radius: 50px;
   width: 32px;
   height: 32px;
-  background: #8B4513;
+  background: #C4A484;
 }
 
 .team .member .social a i {
@@ -1108,7 +1108,7 @@ section {
 }
 
 .team .member .social a:hover {
-  background: #8B4513;
+  background: #C4A484;
 }
 
 .team .member .social a+a {
@@ -1131,7 +1131,7 @@ section {
   float: left;
   width: 44px;
   height: 44px;
-  background: #8B4513;
+  background: #C4A484;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -1168,7 +1168,7 @@ section {
 .contact .php-email-form .error-message {
   display: none;
   color: #fff;
-  background: #8B4513;
+  background: #C4A484;
   text-align: left;
   padding: 15px;
   font-weight: 600;
@@ -1223,7 +1223,7 @@ section {
 }
 
 .contact .php-email-form button[type=submit] {
-  background: #009970;
+  background: #C4A484;
   border: 0;
   padding: 10px 30px;
   color: #fff;
@@ -1232,7 +1232,7 @@ section {
 }
 
 .contact .php-email-form button[type=submit]:hover {
-  background: #00805d;
+  background: #C4A484;
 }
 
 @-webkit-keyframes animate-loading {
@@ -1260,7 +1260,7 @@ section {
 --------------------------------------------------------------*/
 .breadcrumbs {
   padding: 15px 0;
-  background: #f6f6f7;
+  background: #C4A484;
   margin-top: 100px;
 }
 
@@ -1310,12 +1310,12 @@ section {
 #footer {
   color: #444444;
   font-size: 14px;
-  background: #f1f0f2;
+  background: #C4A484;
 }
 
 #footer .footer-top {
   padding: 60px 0 30px 0;
-  background: #f9f8f9;
+  background: #C4A484;
 }
 
 #footer .footer-top .footer-contact {
@@ -1422,7 +1422,7 @@ section {
   background: none;
   font-size: 16px;
   padding: 0 20px;
-  background: #009970;
+  background: #C4A484;
   color: #fff;
   transition: 0.3s;
   border-radius: 50px;
@@ -1430,7 +1430,7 @@ section {
 }
 
 #footer .footer-newsletter form input[type=submit]:hover {
-  background: #00664b;
+  background: #C4A484;
 }
 
 #footer .credits {
@@ -1442,7 +1442,7 @@ section {
 #footer .social-links a {
   font-size: 18px;
   display: inline-block;
-  background: #009970;
+  background: #C4A484;
   color: #fff;
   line-height: 1;
   padding: 8px 0;
@@ -1455,7 +1455,7 @@ section {
 }
 
 #footer .social-links a:hover {
-  background: #00805d;
+  background: #C4A484;
   color: #fff;
   text-decoration: none;
 }
