@@ -336,7 +336,7 @@ h6 {
 .navbar-mobile a:hover,
 .navbar-mobile .active,
 .navbar-mobile li:hover>a {
-  color: #009970;
+  color: #C4A484;
 }
 
 .navbar-mobile .getstarted,
@@ -371,7 +371,7 @@ h6 {
 .navbar-mobile .dropdown ul a:hover,
 .navbar-mobile .dropdown ul .active:hover,
 .navbar-mobile .dropdown ul li:hover>a {
-  color: #009970;
+  color: #C4A484;
 }
 
 .navbar-mobile .dropdown>.dropdown-active {
@@ -438,7 +438,7 @@ h6 {
 
 #hero .btn-get-started:hover {
   background: #8B4513;
-  border: 2px solid #009970;
+  border: 2px solid #C4A484;
 }
 
 @media (min-width: 1024px) {
@@ -556,7 +556,7 @@ section {
   top: 7px;
   position: absolute;
   font-size: 20px;
-  color: #009970;
+  color: #C4A484;
 }
 
 .about .content p:last-child {
@@ -620,7 +620,7 @@ section {
 }
 
 .why-us .content .more-btn:hover {
-  color: #009970;
+  color: #C4A484;
   background: #8B4513;
 }
 
@@ -636,7 +636,7 @@ section {
 
 .why-us .icon-boxes .icon-box i {
   font-size: 40px;
-  color: #009970;
+  color: #C4A484;
   margin-bottom: 30px;
 }
 
@@ -691,7 +691,7 @@ section {
 
 .cta .cta-btn:hover {
   background: #8B4513;
-  border: 2px solid #009970;
+  border: 2px solid #C4A484;
 }
 
 /*--------------------------------------------------------------
@@ -709,13 +709,13 @@ section {
   width: 64px;
   height: 64px;
   border-radius: 50px;
-  border: 1px solid #009970;
+  border: 1px solid #C4A484;
   display: flex;
   align-items: center;
   justify-content: center;
   margin-bottom: 20px;
   transition: ease-in-out 0.3s;
-  color: #009970;
+  color: #C4A484;
 }
 
 .services .icon-box .icon i {
@@ -745,7 +745,7 @@ section {
 }
 
 .services .icon-box:hover h4 a {
-  color: #009970;
+  color: #C4A484;
 }
 
 .services .icon-box:hover .icon {
@@ -898,7 +898,7 @@ section {
   height: 12px;
   background-color: #8B4513;
   opacity: 1;
-  border: 1px solid #009970;
+  border: 1px solid #C4A484;
 }
 
 .portfolio-details .portfolio-details-slider .swiper-pagination .swiper-pagination-bullet-active {
